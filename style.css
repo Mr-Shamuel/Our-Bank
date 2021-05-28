@@ -1,0 +1,57 @@
+body{
+    padding: 100px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.con span{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: tomato;
+    font-weight: bold;
+}
+
+.log-in{
+  
+    box-shadow: 5px 5px 10px  grey;
+    padding:25px;
+    border-radius: 10px;
+    margin: 10px;
+    
+}
+
+button.btn.btn-success {
+    /* padding-left: 100px; */
+    /* margin-left: 233px; */
+   
+}
+
+#transaction-area{
+    display: none;
+   
+  
+    font-weight: bolder;
+
+
+}
+#transaction-area h1{
+     font-size: 60px;
+     font-family: 'Pattaya', sans-serif;
+     color: tomato;
+
+}
+.info{
+    border-radius: 10px;
+    padding: 20px 0px;
+    color: white;
+  
+}
+.info h5{
+    font-size: 20px;
+}
+.info h2{
+    font-size: 30px;
+}
+.money{
+    box-shadow: 5px 5px 10px grey;
+    padding: 20px;
+    margin: 28px;
+}
